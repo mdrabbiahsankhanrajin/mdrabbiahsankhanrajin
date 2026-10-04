@@ -15,7 +15,7 @@
   🟢 <b>Available for new work</b>
 </p>
 
-<img src="assets/stats.png" alt="20+ apps and websites shipped, about 2 years building, 1 person on the hook, 2 languages: English and Bangla" width="100%">
+<img src="assets/stats.png" alt="20+ apps and websites shipped, about 2 years building, 1 person on the hook, 2 languages, English and Bangla" width="100%">
 
 <br>
 
