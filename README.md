@@ -12,7 +12,7 @@
   &nbsp;·&nbsp;
   <a href="https://mdrabbiahsankhanrajin.github.io/work"><b>All work</b></a>
   &nbsp;·&nbsp;
-  🟢 <b>Available for new work</b>
+  🟣 <b>Available for new work</b>
 </p>
 
 <img src="assets/stats.png" alt="20+ apps and websites shipped, about 2 years building, 1 person on the hook, 2 languages, English and Bangla" width="100%">
